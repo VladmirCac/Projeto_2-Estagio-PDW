@@ -1,0 +1,24 @@
+Acesso ao sistema:
+Loguin: admin
+Senha: 123
+
+====================================
+LINKS PARA TESTE
+
+http://localhost/aulasPHP/miniProjeto/index.php
+função: Tela de Loguin / Sair.
+
+http://localhost/aulasPHP/miniProjeto/index.php?pg=CadastroAutor 
+função: Buscar Autor / Cadastrar  Auto.
+
+obs: os demais links estão apenas com o layout, sem funcionalidades.  
+====================================
+
+Os arquivos que estão utilizando Mysqli são:
+BuscarAutorBD.php
+CadastraAutorBD.php
+telaLoguin.php
+conecta.inc.php
+
+O arquivo que cria a base de dados é:
+CriacaoBancoTestePhp.sql
